@@ -4,4 +4,4 @@ This repo is dedicated to hold Schematics and PCB design files for the Robko01 P
 
 The board is designed in KiCAD.
 
-![Drag Racing](.\R01A2A\R01A2A.png)
+![](.\R01A2A\R01A2A.png)
