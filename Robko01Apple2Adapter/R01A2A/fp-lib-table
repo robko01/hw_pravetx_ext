@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Apple2)(type KiCad)(uri C:/Users/User/Documents/KiCAD/Robko01Apple2Adapter/R01A2A)(options "")(descr ""))
+  (lib (name R01A2A)(type KiCad)(uri ${KIPRJMOD}/R01A2A.pretty)(options "")(descr ""))
+)
