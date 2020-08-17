@@ -2,4 +2,6 @@
   (lib (name Apple2)(type Legacy)(uri C:/Users/User/Documents/KiCAD/Robko01Apple2Adapter/lib/Apple2_bus/Apple2_bus.lib)(options "")(descr ""))
   (lib (name Intel)(type Legacy)(uri ${KIPRJMOD}/Intel.lib)(options "")(descr ""))
   (lib (name EEPROM2716)(type Legacy)(uri ${KIPRJMOD}/EEPROM2716.lib)(options "")(descr ""))
+  (lib (name R01A2A-rescue)(type Legacy)(uri ${KIPRJMOD}/R01A2A-rescue.lib)(options "")(descr ""))
+  (lib (name Apple2_bus)(type Legacy)(uri ${KIPRJMOD}/Apple2_bus.lib)(options "")(descr ""))
 )

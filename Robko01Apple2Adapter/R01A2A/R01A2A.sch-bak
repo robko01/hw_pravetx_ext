@@ -1533,6 +1533,23 @@ Wire Wire Line
 	17600 5450 17200 5450
 Wire Wire Line
 	17200 5450 17200 6350
+Connection ~ 17200 6350
+Text Label 9150 6400 0    50   ~ 0
+A3
+Text Label 9150 6500 0    50   ~ 0
+A2
+Text Label 9150 6600 0    50   ~ 0
+A1
+Text Label 9150 6700 0    50   ~ 0
+A0
+Text Label 8450 10200 0    50   ~ 0
+A0
+Text Label 8450 9600 0    50   ~ 0
+A3
+Text Label 8450 9800 0    50   ~ 0
+A2
+Text Label 8450 10000 0    50   ~ 0
+A1
 Wire Bus Line
 	2700 5100 2700 7600
 Wire Bus Line
@@ -1543,5 +1560,4 @@ Wire Bus Line
 	9000 5100 9000 8100
 Wire Bus Line
 	8700 5100 8700 10500
-Connection ~ 17200 6350
 $EndSCHEMATC
