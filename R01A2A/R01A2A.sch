@@ -4,12 +4,12 @@ EELAYER END
 $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
-Comment2 ""
+Title "Robko01 Pravetz extention board."
+Date "2020-08-17"
+Rev "1.0"
+Comp "8BitClub"
+Comment1 "Orlin Dimitrov"
+Comment2 "robko01@8bitclub.com"
 Comment3 ""
 Comment4 ""
 $EndDescr
@@ -1539,16 +1539,6 @@ Text Label 8450 9800 0    50   ~ 0
 A2
 Text Label 8450 10000 0    50   ~ 0
 A1
-Wire Bus Line
-	2700 5100 2700 7600
-Wire Bus Line
-	4700 5100 4700 7600
-Wire Bus Line
-	5700 5100 5700 10400
-Wire Bus Line
-	9000 5100 9000 8100
-Wire Bus Line
-	8700 5100 8700 10500
 $Comp
 L Apple2_bus:A2_BUS BUS1
 U 1 1 5F3CD9AD
@@ -1560,4 +1550,14 @@ F 3 "" H 5800 7400 60  0000 C CNN
 	1    5800 7400
 	1    0    0    -1  
 $EndComp
+Wire Bus Line
+	2700 5100 2700 7600
+Wire Bus Line
+	4700 5100 4700 7600
+Wire Bus Line
+	5700 5100 5700 10400
+Wire Bus Line
+	9000 5100 9000 8100
+Wire Bus Line
+	8700 5100 8700 10500
 $EndSCHEMATC
